@@ -61,10 +61,11 @@ Skip invalid emails
 Attach resume automatically
 Send emails with delay control
 Display success summary
-⚠ Disclaimer
+
+# Disclaimer
 
 This project is intended for educational and automation purposes. Users are responsible for complying with email communication guidelines and ethical outreach practices.
 
-👤 Author
+# Author
 
 Developed as a practical automation project demonstrating Python scripting, data handling, and secure system integration.
