@@ -18,18 +18,17 @@ Yagmail (SMTP)
 Environment Variables for Security
 
 # Project Structure
-Automated-Email-Outreach/
-│
-├── send_mails.py
-├── HR_list_sample.csv
-├── requirements.txt
-├── README.md
-└── .gitignore
+##### Automated-Email-Outreach/
+##### │
+##### ├── send_mails.py
+##### ├── HR_list_sample.csv
+##### ├── requirements.txt
+##### ├── README.md
+##### └── .gitignore
 
 # Installation & Setup
 ## 1️⃣ Clone the Repository
-###### git clone https://github.com/Atul-Kumar002/Automated-Email-Outreach.git
-### cd Automated-Email-Outreach
+git clone https://github.com/Atul-Kumar002/Automated-Email-Outreach.git
 ## 2️⃣ Install Dependencies
 pip install -r requirements.txt
 ## 3️⃣ Set Environment Variables
