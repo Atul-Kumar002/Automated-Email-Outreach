@@ -28,7 +28,7 @@ Automated-Email-Outreach/
 
 # Installation & Setup
 ## 1️⃣ Clone the Repository
-#### git clone https://github.com/Atul-Kumar002/Automated-Email-Outreach.git
+###### git clone https://github.com/Atul-Kumar002/Automated-Email-Outreach.git
 ### cd Automated-Email-Outreach
 ## 2️⃣ Install Dependencies
 pip install -r requirements.txt
