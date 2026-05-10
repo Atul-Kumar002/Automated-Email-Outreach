@@ -18,8 +18,7 @@ Yagmail (SMTP)
 Environment Variables for Security
 
 # Project Structure
-##### Automated-Email-Outreach/
-##### │
+##### Automated-Email-Outreach
 ##### ├── send_mails.py
 ##### ├── HR_list_sample.csv
 ##### ├── requirements.txt
@@ -44,7 +43,7 @@ Restart your terminal after setting these.
 
 Ensure your CSV follows this format:
 
-name,email,company
+name, email, company\n
 John Smith,john.smith@example.com,ABC Technologies
 Sarah Lee,sarah.lee@example.com,Innovate Solutions
 
