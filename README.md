@@ -43,9 +43,7 @@ Restart your terminal after setting these.
 
 Ensure your CSV follows this format:
 
-name, email, company\n
 John Smith,john.smith@example.com,ABC Technologies
-Sarah Lee,sarah.lee@example.com,Innovate Solutions
 
 Only three required columns:
 name
